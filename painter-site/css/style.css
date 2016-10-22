@@ -1,0 +1,163 @@
+body{
+  margin: 0px;
+  padding:0px;
+  font-family: 'Open Sans', sans-serif;
+}
+.container-fluid{
+  margin:0px;
+  padding:0px
+}
+.row{
+  margin: 0px;
+}
+.no-extra{
+  margin:0px;
+  padding:0px;
+}
+#banner{
+  height:73px;
+  background-color:#FFFFFF;
+}
+#logo{
+  height:73px;
+}
+#call-tag{
+  color:#07387A;
+  font-size: 25px;
+  font-weight: 500;
+  margin-top:12px
+}
+#numbers{
+  color:#B60024;
+  font-size: 27px;
+  font-weight: 800;
+}
+#red-divider{
+  height:12px;
+  background-color: #B50025;
+  
+}
+#img-block{
+  background-color:#FFFFFF;
+  background-image: url("https://s9.postimg.org/h4wf12s9r/hi_res_house.jpg");
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:center;
+  
+}
+
+h1{
+  font-size: 45px;
+  
+}
+.box{
+  background-color:rgba(255,255,255,0.70);
+  
+  text-align:center;
+  margin: 30px 0px 30px 0px
+  
+}
+.blue{
+  color:#0E3A7C;
+  opacity:1.0;
+}
+.red{
+  color:#BD0027;
+}
+#red-rect{
+  background-color:rgba(178,0,20,0.85);
+  color: white;
+  margin-left:-10px;
+  margin-right:-10px;
+  padding:1px 0px 1px 0px;
+  margin-bottom: 15px;
+  margin-top: 20px;
+  font-weight: 800;
+}
+#promo{
+  font-size: 80px;
+  margin-top:0px;
+}
+#divided-text{
+  padding-top:15px;
+  border-top: 2px solid #BD0027;
+  text-align:center;
+  width: 75%;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+input{
+  width:250px;
+  margin-bot:20px;
+  
+}
+#phone{
+  margin-left:-9px
+}
+#submit{
+  background-color:#BD0027;
+  color:white;
+  
+  margin-top:20px;
+  margin-bottom:40px
+  
+}
+#blue-bar{
+  background-color:rgba(6,55,123,0.85);
+  color:white;
+  margin:5px -10px 5px -10px ;
+  margin-left:-10px;
+  margin-right:-10px;
+  margin-bottom:5px;
+  padding:2px
+}
+
+#blue-divider{
+  height:18px;
+  background-color:#07387A;
+  margin-top:0px;
+}
+#text-section{
+  background-color:#EAEAEA;
+}
+#text-container{
+  
+}
+p{
+  font-family: 'Raleway', sans-serif;
+}
+.small-brush{
+  height:20px;
+}
+#sm-red-banner{
+  background-color:#BE0027;
+  text-align:center;
+  color:white;
+  margin-bottom:0px;
+}
+#bot-text{
+  margin-top:0px;
+  padding-top:10px;
+  padding-bottom:10px;
+  font-size:20px;
+}
+#num-span{
+  font-size:25px;
+}
+#sm-blue-trim{
+  height:6px;
+  background-color:#003970;
+  margin-bottom:0px;
+  margin-top:-10px;
+  
+}
+#sm-white-trim{
+  height:30px;
+  background-color:#003970;
+  bottom-margin:24px;
+  background-color:#EAEAEA
+}
+#submit:hover {
+  color: black;
+}
